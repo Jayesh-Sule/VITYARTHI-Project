@@ -1,6 +1,6 @@
 student={}
 
-def add_student():          #Student Adding Function
+def add_student():         
     print("\n--- Add Student ---")
     reg=input("enter registration number: ")
     if reg in student:
@@ -88,6 +88,7 @@ while True:
     else:
         print("invalid choice ! Try again") 
                            
+
 
 
 
