@@ -1,13 +1,13 @@
 # VITYARTHI-Project
  Student Record Management System built using Python. This project uses nested dictionaries to store student details and provides a menu-driven interface to perform CRUD operations (Create, Read, Update, Delete).
  
-🗂️ Student Record Management System (using  Nested Dictionary)
+🗂️ #Student Record Management System (using  Nested Dictionary)
 
 A simple command-line Student Record Management System implemented using Python nested dictionaries.
 
 This project is ideal for beginner Python coursework and demonstrates menu-driven programming, data structures, and CRUD operations.
 
-✨Features
+✨#Features
 
 1.Add, search, update, and delete student records
 
