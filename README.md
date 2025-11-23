@@ -29,7 +29,7 @@ This project is ideal for beginner Python coursework and demonstrates menu-drive
 
 # Files
 
-student_record.py — Main program
+student.py — Main program
 
 (No external files created; dictionary is in-memory)
 
